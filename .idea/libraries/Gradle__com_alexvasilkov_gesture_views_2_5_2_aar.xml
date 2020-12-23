@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alexvasilkov:gesture-views:2.5.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e489276401430d8b5290e0ee6512df9/jetified-gesture-views-2.5.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e489276401430d8b5290e0ee6512df9/jetified-gesture-views-2.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e489276401430d8b5290e0ee6512df9/jetified-gesture-views-2.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa6bbe8dbabb119207f06f0715631a11/jetified-gesture-views-2.5.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa6bbe8dbabb119207f06f0715631a11/jetified-gesture-views-2.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa6bbe8dbabb119207f06f0715631a11/jetified-gesture-views-2.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a154ac5fea6ade602577598085a42a91/jetified-gesture-views-2.5.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a154ac5fea6ade602577598085a42a91/jetified-gesture-views-2.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a154ac5fea6ade602577598085a42a91/jetified-gesture-views-2.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aad0dae823aaeb0ae2190098fe6d5f4b/jetified-gesture-views-2.5.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aad0dae823aaeb0ae2190098fe6d5f4b/jetified-gesture-views-2.5.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aad0dae823aaeb0ae2190098fe6d5f4b/jetified-gesture-views-2.5.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alexvasilkov/gesture-views/2.5.2/156dec1585bcc1f62951cb97ede4e8e5adb11b03/gesture-views-2.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alexvasilkov/gesture-views/2.5.2/762ac311b417ccf34f04f444c2f8eb6d0c0adf55/gesture-views-2.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
